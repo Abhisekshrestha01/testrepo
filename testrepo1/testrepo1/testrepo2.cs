@@ -7,5 +7,9 @@ namespace testrepo1
 {
     public class testrepo2
     {
+        public testrepo2()
+        {
+
+        }
     }
 }
