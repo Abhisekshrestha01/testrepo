@@ -9,7 +9,7 @@ namespace testrepo1
     {
         public testrepo2()
         {
-
+            int id;
         }
     }
 }
